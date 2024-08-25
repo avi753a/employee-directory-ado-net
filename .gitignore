@@ -1,0 +1,13 @@
+DotnetApp.sln
+.vs/DotnetApp/DesignTimeBuild/.dtbcache.v2
+/.vs/DotnetApp/FileContentIndex
+/Infrastructure/bin/Debug/net8.0
+/Infrastructure/obj
+/Models/bin/Debug/net8.0
+/Models/obj
+/Presentation/bin/Debug/net8.0
+/Presentation/obj
+/Services/bin/Debug/net8.0
+/Services/obj
+/.vs/DotnetApp/v17
+/.vs/ProjectEvaluation
